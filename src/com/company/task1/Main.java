@@ -1,4 +1,4 @@
-package com.company;
+package com.company.task1;
 
 public class Main {
 
@@ -14,6 +14,7 @@ public class Main {
                 e.printStackTrace();
             }
         }, "Игрушка");
+
 
         Thread threadUser2 = new Thread(null, () -> {
             try {

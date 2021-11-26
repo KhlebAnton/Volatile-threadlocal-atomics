@@ -1,4 +1,6 @@
-package com.company;
+package com.company.task1;
+
+import com.company.task1.Toy;
 
 public class User {
 

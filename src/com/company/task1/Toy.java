@@ -1,4 +1,4 @@
-package com.company;
+package com.company.task1;
 
 public class Toy {
 
